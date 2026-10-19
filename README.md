@@ -4,7 +4,7 @@
 </p>  🌐 Planetary Restoration Archive | 📧 admin@planetaryrestorationarchive.com
 
 <p align="center">  
-  <a href="https://linkedin.com/in/therickyfoster"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+  <a href="https://linkedin.com/in/regenerative-architect"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
   <a href="https://planetaryrestorationarchive.com"><img src="https://img.shields.io/badge/Website-HERE-38a169?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>  
   <a href="mailto:admin@planetaryrestorationarchive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
 </p>  
@@ -25,13 +25,13 @@ Current Focus: System architecture and development of integrated regenerative te
 📊 GitHub Analytics
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therickyfoster&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d&cache_seconds=1800"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regenerative-architect&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d&cache_seconds=1800"/>  
 </div>  <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therickyfoster&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&border_color=30363d"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regenerative-architect&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&border_color=30363d"/>  
 </div>  <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therickyfoster&theme=github-dark&bg_color=0d1117&color=38a169&line=38a169&point=c9d1d9&area=true&hide_border=true" />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=regenerative-architect&theme=github-dark&bg_color=0d1117&color=38a169&line=38a169&point=c9d1d9&area=true&hide_border=true" />  
 </div>  <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=therickyfoster&theme=dark&background=0d1117&stroke=38a169&ring=38a169&fire=38a169&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38a169&sideLabels=c9d1d9&dates=c9d1d9" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=regenerative-architect&theme=dark&background=0d1117&stroke=38a169&ring=38a169&fire=38a169&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38a169&sideLabels=c9d1d9&dates=c9d1d9" />  
 </div>  
 ---
 
@@ -81,13 +81,13 @@ Environmental & IoT
 <tr>  
 <td width="50%">  <h3 align="center">🔬 Myco-Mist Reforestation Pods™</h3>  
 <div align="center">    
-<a href="https://github.com/therickyfoster/myco-mist-reforestation-pods" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=myco-mist-reforestation-pods&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="myco-mist-reforestation-pods" /></a>  
+<a href="https://github.com/regenerative-architect/myco-mist-reforestation-pods" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=regenerative-architect&repo=myco-mist-reforestation-pods&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="myco-mist-reforestation-pods" /></a>  
 </div>  
 <p align="center"><strong>Thermophilic Fungal Carbon Capture</strong><br/>  
 Self-regenerating biofilter architecture with distributed sensor integration and thermal regulation systems.</p>  </td>  
 <td width="50%">  <h3 align="center">🌍 GERE Framework</h3>  
 <div align="center">  
-<a href="https://github.com/therickyfoster/Geo-Ecological-Resonant-Engineering-GERE-" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Geo-Ecological-Resonant-Engineering-GERE-&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>  
+<a href="https://github.com/regenerative-architect/Geo-Ecological-Resonant-Engineering-GERE-" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=regenerative-architect&repo=Geo-Ecological-Resonant-Engineering-GERE-&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>  
 </div>  
 <p align="center"><strong>Planetary-Scale Restoration Network</strong><br/>  
 Decentralized sensor network design for bioregional environmental monitoring and restoration.</p>  </td>  
@@ -95,13 +95,13 @@ Decentralized sensor network design for bioregional environmental monitoring and
 <tr>  
 <td width="50%">  <h3 align="center">🧱 Lightforge Platform</h3>  
 <div align="center">  
-<a href="https://github.com/therickyfoster/Lightforge" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Lightforge&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="Lightforge" /></a>  
+<a href="https://github.com/regenerative-architect/Lightforge" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=regenerative-architect&repo=Lightforge&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="Lightforge" /></a>  
 </div>  
 <p align="center"><strong>Gamified Emotional Intelligence</strong><br/>  
 Progressive Web App structure for behavior transformation in educational and community settings.</p>  </td>  
 <td width="50%">  <h3 align="center">🌫️ EcoDraft + SkyWeave™</h3>  
 <div align="center">  
-<a href="https://github.com/therickyfoster/EcoDraft" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=EcoDraft&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="EcoDraft" /></a>  
+<a href="https://github.com/regenerative-architect/EcoDraft" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=regenerative-architect&repo=EcoDraft&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="EcoDraft" /></a>  
 </div>  
 <p align="center"><strong>Building-Integrated Atmospheric Processing</strong><br/>  
 Modular retrofit framework for energy generation and air quality improvement systems.</p>  </td>  
@@ -197,7 +197,7 @@ Mission-aligned purposes	Environmental harm or exploitation
 🎮 When I'm Not Architecting Regenerative Systems
 
 <div align="center">  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=therickyfoster&unique=true" alt="Spotify Recently Played" />  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=regenerative-architect&unique=true" alt="Spotify Recently Played" />  
 </div>  
 ---
 
@@ -206,7 +206,7 @@ Mission-aligned purposes	Environmental harm or exploitation
 <a href="mailto:admin@planetaryrestorationarchive.com">  
   <img src="https://img.shields.io/badge/Let's_Collaborate-38a169?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
 </a>  
-<a href="https://linkedin.com/in/therickyfoster">  
+<a href="https://linkedin.com/in/regenerative-architect">  
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
 </a>  💫 "Regenerative technology begins with regenerative architecture - systems designed from the ground up to serve life, enhance ecosystem health, and remain forever open to those who need them most."
 
